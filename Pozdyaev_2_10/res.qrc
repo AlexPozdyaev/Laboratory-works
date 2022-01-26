@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>free-icon-open-folder-with-document-32743.png</file>
+        <file>free-icon-exit-to-app-button-61208.png</file>
+    </qresource>
+</RCC>
